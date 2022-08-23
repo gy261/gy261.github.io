@@ -112,9 +112,8 @@ author:
   location         : "England, UK"
   email            : "gy261@cam.ac.uk"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:gy261@cam.ac.uk"
+    - label: "CV/Resume"
+      url: "/assets/CV_GuoYang.pdf"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
